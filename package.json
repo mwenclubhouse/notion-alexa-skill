@@ -1,0 +1,26 @@
+{
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  },
+  "name": "notion-alexa-skill",
+  "description": "Alexa Skill to Handle Notion Board for Matthew Wen",
+  "version": "1.0.0",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "echo \"test is not setup\"",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwenclubhouse/notion-alexa-skill.git"
+  },
+  "author": "Matthew Wen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwenclubhouse/notion-alexa-skill/issues"
+  },
+  "homepage": "https://github.com/mwenclubhouse/notion-alexa-skill#readme",
+  "dependencies": {
+    "ask-sdk": "^2.11.0"
+  }
+}
